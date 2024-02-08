@@ -4,7 +4,7 @@
 /* Body styling */
 body {
   background: #E08182;
-  color: cornsilk;
+  color: #000000;
   font-family: Courier;
   font-size: 30px;
   font-weight: 300;
@@ -18,7 +18,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 100px;
-  color: cornsilk;
+  color:  #000000;
   text-align: center;
 }
 
@@ -35,7 +35,7 @@ h1 {
   background: transparent;
   border: 3px solid #fff;
   border-radius: 6px;
-  color: cornsilk;
+  color:  #000000;
   cursor: pointer; 
   display: block;
   font-size: 20px;
